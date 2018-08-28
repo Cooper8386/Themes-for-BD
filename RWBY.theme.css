@@ -1,0 +1,11 @@
+//META{"name":"RWBY","description":"Just a quick RWBY theme I threw together... JNPR to come soon.","author":"Cooper8386-All Credits go to Ruben7173","version":"1.0"}*//{}
+
+@import url(https://rawgit.com/Cooper8386/Themes-for-betterdiscord/master/RWBY%20theme%20code.theme.css);
+
+/* Background */ /* Default BG: https://i.imgur.com/KHLRRfa.png */
+.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {
+    background:url('https://i.imgur.com/KHLRRfa.png');  /* Change this URL to change the Wallpaper */
+}
+
+											/* Custom code below */
+/*** If for some reason the code doesn't work, add an !important because it might be overwritten by main code ***/
